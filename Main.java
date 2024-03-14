@@ -3,7 +3,7 @@ public class Main {
 
         System.out.println("Hello!");
 
-        System.out.println("Some change in main after adding new feature!");
+        System.out.println("Change according to new feature!");
 
     }
 }
