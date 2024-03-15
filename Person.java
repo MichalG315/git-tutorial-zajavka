@@ -7,5 +7,6 @@ public class Person {
 
     void myHobby(){
         System.out.println("Pizza");
+        System.out.println("And games");
     }
 }
